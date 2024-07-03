@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, MERN**
 
-- 📫 How to reach me **sinha.harshraj1101@gmail.com**
+- 📫 How to reach me **harshraj02011@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
